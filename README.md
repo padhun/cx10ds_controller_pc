@@ -11,17 +11,27 @@ If not try reconnecting maybe turn your drone on and off sometimes it did not co
 Once you can ping it you can start the python script which is a basic application that can do the following.
 
 P - Takeoff
+
 L - Land
 
+
 W - Throttle ++
+
 S - Throttle --
+
 D - Rudder ++
+
 A - Rudder --
 
+
 UP_ARROW - Elevator ++
+
 DOWN_ARROW - Elevator -- 
+
 RIGHT_ARROW - Aileron ++
+
 LEFT_ARROW - Aileron --
+
 
 Enjoy. 
  
